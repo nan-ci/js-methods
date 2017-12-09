@@ -1,6 +1,5 @@
 # js-methods
-A cherry picked list of the most usefull methods and functions available for you, in JS Edit
-Add topics
+A cherry picked list of the most usefull methods and functions available for you, in JS
 
 ## String
 ### String - Transform
@@ -69,7 +68,7 @@ _[sort](https://devdocs.io/javascript/global_objects/array/sort)*_
 [reduce](https://devdocs.io/javascript/global_objects/array/reduce),
 [reduceRight](https://devdocs.io/javascript/global_objects/array/reduceright)
 
-_(*) methods in italics are **NOT** pure (using them with the same arguments won't return the same result).
+_(*) methods in italics are **NOT** pure (using them with the same arguments won't return the same result).  
 They must be used with caution as it is harder to predict their results_
 
 [`NaN.ci`](https://nan.ci/)
