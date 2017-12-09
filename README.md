@@ -1,3 +1,7 @@
+# js-methods
+A cherry picked list of the most usefull methods and functions available for you, in JS Edit
+Add topics
+
 ## String
 ### String - Transform
 [slice](https://devdocs.io/javascript/global_objects/string/slice),
