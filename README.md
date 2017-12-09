@@ -1,6 +1,3 @@
-
-# [`NaN`.ci](https://nan.ci/)
-
 ## String
 ### String - Transform
 [slice](https://devdocs.io/javascript/global_objects/string/slice),
@@ -70,3 +67,6 @@ _[sort](https://devdocs.io/javascript/global_objects/array/sort)*_
 
 _(*) methods in italics are **NOT** pure (using them with the same arguments won't return the same result).
 They must be used with caution as it is harder to predict their results_
+
+[`NaN.ci`](https://nan.ci/)
+
